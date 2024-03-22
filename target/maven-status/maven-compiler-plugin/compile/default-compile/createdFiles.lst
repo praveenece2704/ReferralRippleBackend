@@ -1,0 +1,8 @@
+com\example\main\service\UserService.class
+com\example\main\ReferralrippleApplication.class
+com\example\main\repository\UserRepository.class
+com\example\main\entity\UserRegistrationDTO.class
+com\example\main\referralcode\ReferralCodeGenerator.class
+com\example\main\controller\UserController.class
+com\example\main\entity\User.class
+com\example\main\entity\UserLoginDTO.class
